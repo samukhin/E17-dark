@@ -1,0 +1,3 @@
+https://github.com/madmaxms/iconpack-obsidian
+
+https://salsa.debian.org/desktop-themes-team/obsidian-icon-theme/-/tree/debian/master?ref_type=heads
